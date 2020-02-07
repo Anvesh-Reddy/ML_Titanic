@@ -3,7 +3,7 @@
 ## Binder Setup: 
 
 1. Click on the URL and wait for binder to open Jupyter notebook (won’t take more than 2 minutes). 
-[ML HandsOn URL](https://mybinder.org/v2/gh/Anvesh-Reddy/ML_Titanic.git/master)
+[ML HandsOn URL](https://mybinder.org/v2/git/https%3A%2F%2Fsourcecontrol.ggktech.com%2FGGKTECH%2Fml_dev_day/master)
 ![](https://github.com/Anvesh-Reddy/ML_Titanic/blob/development/assets/images/binder_1_loading.PNG)
 2. You should be able to see it as shown below.
 ![](https://github.com/Anvesh-Reddy/ML_Titanic/blob/development/assets/images/binder_2_complete.PNG)
@@ -23,4 +23,5 @@ If you are facing any issues connecting with binder, then we would recommend you
 ![](https://github.com/Anvesh-Reddy/ML_Titanic/blob/development/assets/images/colab_2_upload_option.png)
 5. Choose file “Titanic Survival Prediction-v1_fill_in_blanks.ipynb" to upload 
 ![](https://github.com/Anvesh-Reddy/ML_Titanic/blob/development/assets/images/colab_3_choose_notebook.png)
- 
+6. When running notebook, you would be asked to upload dataset file “train.csv” as you see in below screenshot 
+![](https://github.com/Anvesh-Reddy/ML_Titanic/blob/development/assets/images/colab_4_choose_file.png)
